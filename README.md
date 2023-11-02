@@ -1,10 +1,10 @@
-# Project 7 - *Name of App Here*
+# Project 7 - Tasks
 
-Submitted by: **Your Name Here**
+Submitted by: Jason Morales
 
-**Name of your app** is an app that ... [TODO] 
+Tasks is an app that lets you create tasks and view them on a calendar
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
